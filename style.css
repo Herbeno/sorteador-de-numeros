@@ -130,10 +130,10 @@ h1 {
     line-height: normal;
 }
 
-.container__imagem-pessoa {
-    max-width: 49%;
+.container__robo {
+    max-width: 36%;
     height: auto;
-    margin-top: 3rem;
+    margin-top: rem;
 }
 
 button:disabled {
