@@ -133,7 +133,7 @@ h1 {
 .container__imagem-pessoa {
     max-width: 49%;
     height: auto;
-    margin-top: rem;
+    margin-top: 3rem;
 }
 
 button:disabled {
